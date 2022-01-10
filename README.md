@@ -13,4 +13,4 @@ I then solved them using my solver and put it all in a beautiful box to help vis
 -------------------------------------------
 
 Steps I took
-![alt text](https://https://github.com/ShouryaAgrawal/OpenCV-SudokuSolver/sudopic.jpeg?raw=true)
+![alt text](https://github.com/ShouryaAgrawal/OpenCV-SudokuSolver/sudopic.jpeg?raw=true)
